@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "165833836270",
+    "project_id": "inventaris-tefa-sekolah",
+    "storage_bucket": "inventaris-tefa-sekolah.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165833836270:android:f6261f0a59e27145cbd5ff",
+        "android_client_info": {
+          "package_name": "com.azriel.inventaris_tefa_sekolah"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4kQKHmNe_ZUTrgvADFa-QJwj6QXVbYfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
